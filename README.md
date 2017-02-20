@@ -19,3 +19,5 @@ Stacklayout for Corona SDK
 - `stackLayout:remove(obj)`
 - `stackLayout:refresh()`
 - `stackLayout:destroy()`
+
+This project is licensed under the terms of the MIT license
