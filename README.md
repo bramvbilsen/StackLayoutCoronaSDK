@@ -4,7 +4,7 @@ Stacklayout for Corona SDK
 ## Usage
 ### First: Require the module
 `local stackLayoutLib = require("Stacklayout")`
-### Second: Create a stacklyout
+### Second: Create a stacklayout
 - `local stackLayout = stackLayoutLib.create(params)`
 - params is a table and can include:
   - y (e.g. params = {y=0});
